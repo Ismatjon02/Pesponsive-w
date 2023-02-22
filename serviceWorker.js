@@ -1,4 +1,4 @@
-const staticColorPicker = "dasturUz"
+const staticColorPicker = "dasturUz";
 const assets = [
     "/",
     "/index.html",
